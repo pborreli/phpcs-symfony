@@ -14,7 +14,7 @@ Obviously, PHP_CodeSniffer has to be installed.
 If you want to install the standard you have to symlink this project root folder into the Standard folder where PHP_CodeSniffer is installed. Usually this is _/usr/share/php/PHP/CodeSniffer/Standard_ if
 PHP_Codesniffer is installed via PEAR.
 
-    sudo ln -s /folder/ayoub/git/form-sandbox/phpcs-symfony/ /usr/share/php/PHP/CodeSniffer/Standards/Symfony
+    sudo ln -s /folder/to/git/folder/phpcs-symfony/ /usr/share/php/PHP/CodeSniffer/Standards/Symfony
 
 ## Usage
 
